@@ -6,6 +6,6 @@ PREFIX = ('@id custom-b92760dd-0f00-4933-a426-a72f3d78ef5c\n'
 
 POSTFIX = '\n\n# ---'
 
-WPC = 200
+WPC = 300
 
 SEP = '\n# ---\n\n'
