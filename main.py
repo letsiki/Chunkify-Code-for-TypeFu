@@ -44,4 +44,4 @@ for e in data:
 with open(file=rf'.\data\exported\TF{dt.now().strftime("%d%m%y_%H%M")}.tfd', mode='w') as f:
     f.write(PREFIX + final_string + POSTFIX)
 
-# TODO: Remove consecutive separators, remove inline whitespace, optionally add extra space after classes
+# TODO: remove inline spaces, split by number of new lines 5 max are allowed
